@@ -47,10 +47,10 @@ params:
   logoHeight: 120
   logoPath: "images/verana-bull.png"
   mainSections:
-    - blog
+  #  - blog
   mobileMenu: true
   mobileMenuOutline: true
-  poweredby: true
+  poweredby: false
   realfavicongenerator: true
   sidebar: false
   submitted: true
