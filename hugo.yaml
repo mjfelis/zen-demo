@@ -39,7 +39,7 @@ params:
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
   favicon: "images/verana-bull.png"
-  feedlinks: true
+  feedlinks: false
   icon: "images/verana-bull.png"
   image: "images/verana-bull.png"
   imageMaxWidth: 400
