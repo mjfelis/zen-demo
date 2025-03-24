@@ -1,6 +1,6 @@
 ---
-title: The Zen demo site
-date: 2022-08-03T20:48:20+02:00
+title: The Verana Foundation
+date: 2025-03-24T16:30:20-06:00
 
 ---
 
