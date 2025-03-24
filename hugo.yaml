@@ -67,43 +67,34 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "Blog"
+        - Name: "Governance"
           weight: 2
           pageRef: "/blog/"
-        - Name: "Podcast"
+        - Name: "Deliverables"
           weight: 4
           pageRef: "/podcast/"
-        - Name: "Products"
-          weight: 6
-          pageRef: "/products/"
-        - Name: "Misc"
-          weight: 8
-          pageRef: "/misc/"
         - Name: "Search"
           weight: 10
           pageRef: "/search/"
-        - Name: "Contact"
-          weight: 12
-          pageRef: "/contact/"
 
-  es:
-    weight: 2
-    languageName: "Español"
-    languageCode: "es-ES"
-    contentDir: content/es
-    menu:
-      main:
-        - Name: "Inicio"
-          weight: -10
-          pageRef: "/"
-
-  fr:
-    weight: 2
-    languageName: "Français"
-    languageCode: "fr-FR"
-    contentDir: content/fr
-    menu:
-      main:
-        - Name: "Acceuil"
-          weight: -10
-          pageRef: "/"
+#  es:
+#    weight: 2
+#    languageName: "Español"
+#    languageCode: "es-ES"
+#    contentDir: content/es
+#    menu:
+#      main:
+#        - Name: "Inicio"
+#          weight: -10
+#          pageRef: "/"
+#
+#  fr:
+#    weight: 2
+#    languageName: "Français"
+#    languageCode: "fr-FR"
+#    contentDir: content/fr
+#    menu:
+#      main:
+#        - Name: "Acceuil"
+#          weight: -10
+#          pageRef: "/"
