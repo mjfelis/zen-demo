@@ -10,7 +10,7 @@ Digital trust is collapsing due to AI-driven fraud, deepfakes, and regulatory co
 
 Verana's mission is to provide a new, decentralized, and universal trust layer to make the Internet verifiable.
 
-Like the DNS (Domain Name System) provides a way of resolving domain names, the Verana Foundation is building the bricks to resolve, verify, and prove trust.
+Like the DNS (Domain Name System) provides a way of resolving domain names, the Verana Foundation is building the **concrete** bricks to resolve, verify, and prove trust.
 
 - DNS: Resolve domain names
 - Verana: Resolve Proof of Trust
