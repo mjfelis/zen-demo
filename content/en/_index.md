@@ -1,20 +1,20 @@
 ---
-title: The Verana Foundation
-date: 2025-03-24T16:30:20-06:00
+title: The Zen demo site
+date: 2022-08-03T20:48:20+02:00
 
 ---
 
-## Our Mission
+This is a demo site for the [Hugo zen theme](https://github.com/frjo/hugo-theme-zen) (GitHub).
 
-Digital trust is collapsing due to AI-driven fraud, deepfakes, and regulatory complexity. Businesses need better privacy, automation, and compliance, while consumers, overwhelmed by privacy concerns, present both risks and opportunities for new trust models.
+Source code for [Zen demo site](https://github.com/frjo/zen-demo) (GitHub).
 
-Verana's mission is to provide a new, decentralized, and universal trust layer to make the Internet verifiable.
+This is the theme I have built to have a good base for all my own Hugo projects. I normally extend it during new projects when I come up with fixes and solutions that I think will be generally useful.
 
-Like the DNS (Domain Name System) provides a way of resolving domain names, the Verana Foundation is building the bricks to resolve, verify, and prove trust.
+I am happy to see that other people also have found it useful.
 
-- DNS: Resolve domain names
-- Verana: Resolve Proof of Trust
+## Styles
 
-## What we are building
+What you see here is the base reset CSS plus the Zen styles. I fully expect most users of this theme will remove the Zen styles. They are a set of styles I happen to often use in my own projects.
 
-Here we will show a diagram.
+To make this theme look like anything you need to add your own custom styling to it. It is a **base** theme after all.
+
