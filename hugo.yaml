@@ -45,6 +45,7 @@ params:
   imageMaxWidth: 400
   logoWidth: 64
   logoHeight: 64
+  logoPath: "images/verana-bull.png"
   mainSections:
     - blog
   mobileMenu: true
