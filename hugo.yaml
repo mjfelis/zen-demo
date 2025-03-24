@@ -1,5 +1,6 @@
 ---
-title: "Verana Foundation"
+title: "The Verana Foundation"
+siteName: false
 baseURL: "https://mjfelis.github.io/zen-demo/"
 theme: "github.com/frjo/hugo-theme-zen/v4"
 languageCode: "en-GB"
