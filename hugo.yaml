@@ -38,13 +38,13 @@ params:
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
-  favicon: "verana-bull.png"
+  favicon: "images/verana-bull.png"
   feedlinks: true
-  icon: "verana-bull.png"
-  image: "verana-bull.png"
+  icon: "images/verana-bull.png"
+  image: "images/verana-bull.png"
   imageMaxWidth: 400
-  logoWidth: 64
-  logoHeight: 64
+  logoWidth: 200
+  logoHeight: 200
   logoPath: "images/verana-bull.png"
   mainSections:
     - blog
