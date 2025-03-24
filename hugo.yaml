@@ -34,10 +34,10 @@ outputs:
 params:
   author:
     name: "Fabrice Rochette"
-    url: "https://verana.foundation"
-  contact: "f@verana.foundation"
+    url: "https://www.linkedin.com/in/fabricerochette/"
+  contact: "f@2060.io"
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
-  description: "The zen theme for Hugo demo site."
+  description: "Don't trust. Verify. Verana is the Verifiable Trust layer that makes the Internet verifiable."
   dateformat: "2 January, 2006"
   favicon: "images/verana-bull.png"
   feedlinks: false
@@ -49,6 +49,7 @@ params:
   logoPath: "images/verana-bull.png"
   mainSections:
   #  - blog
+  menuInHeader: true
   mobileMenu: true
   mobileMenuOutline: true
   poweredby: false
