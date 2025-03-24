@@ -1,6 +1,6 @@
 ---
-title: "Zen demo site"
-baseURL: "https://zen-demo.xdeb.org/"
+title: "Verana Foundation"
+baseURL: "https://mjfelis.github.io/zen-demo/"
 theme: "github.com/frjo/hugo-theme-zen/v4"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -32,9 +32,9 @@ outputs:
 
 params:
   author:
-    name: "Fredrik Jonsson"
-    url: "https://xdeb.org"
-  contact: "frjo@xdeb.org"
+    name: "Fabrice Rochette"
+    url: "https://verana.foundation"
+  contact: "f@verana.foundation"
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
