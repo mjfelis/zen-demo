@@ -1,5 +1,5 @@
 ---
-title: Deliverables
+title: Governance
 weight: 1
 
 ---

@@ -69,10 +69,10 @@ languages:
           pageRef: "/"
         - Name: "Governance"
           weight: 2
-          pageRef: "/blog/"
+          pageRef: "/governance/"
         - Name: "Deliverables"
           weight: 4
-          pageRef: "/podcast/"
+          pageRef: "/deliverables/"
         - Name: "Search"
           weight: 10
           pageRef: "/search/"

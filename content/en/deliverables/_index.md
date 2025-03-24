@@ -27,3 +27,5 @@ Repo: [Verana Network](https://github.com/verana-labs/verana-blockchain)
 An open source typescript library for resolving trust with just a DID (Decentralized Identifier).
 
 Repo: [Verre](https://github.com/verana-labs/verre)
+
+## Third Party Software
