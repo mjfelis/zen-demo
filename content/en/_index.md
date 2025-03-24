@@ -15,6 +15,8 @@ Like the DNS (Domain Name System) provides a way of resolving domain names, the 
 - DNS: Resolve domain names
 - Verana: Resolve Proof of Trust
 
-## What we are building
+## What we enable
 
-Here we will show a diagram.
+We enable the principle: "Don't trust, verify".
+
+Here we will show a nice diagram.
