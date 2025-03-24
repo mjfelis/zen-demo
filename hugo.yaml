@@ -43,8 +43,8 @@ params:
   icon: "images/verana-bull.png"
   image: "images/verana-bull.png"
   imageMaxWidth: 400
-  logoWidth: 200
-  logoHeight: 200
+  logoWidth: 120
+  logoHeight: 120
   logoPath: "images/verana-bull.png"
   mainSections:
     - blog
