@@ -10,7 +10,7 @@ The [Verifiable Trust Specification](https://github.com/verana-labs/verifiable-t
 
 ### Verifiable Public Registry Specification
 
-{{< img src="images/github.png" width="16" height="16" alt="github repo" class="floatright" >}}The [Verifiable Public Registry Specification](https://github.com/verana-labs/verifiable-trust-vpr-spec).
+{{< img src="images/github.png" width="26" height="26" alt="github repo" class="floatleft" >}}The [Verifiable Public Registry Specification](https://github.com/verana-labs/verifiable-trust-vpr-spec).
 
 ## Software
 
