@@ -1,6 +1,8 @@
 ---
-title: Mission 1
+title: Mission
 weight: 1
+author:
+    name: "Fabrice R"
 
 ---
 
