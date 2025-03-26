@@ -48,6 +48,7 @@ params:
   logoHeight: 150
   mainSections:
     - mission
+    - blog
   menuInHeader: false
   mobileMenu: true
   mobileMenuOutline: true
@@ -82,7 +83,10 @@ languages:
         - Name: "Search"
           weight: 10
           pageRef: "/search/"
-
+        - Name: "Blog"
+          weight: 20
+          pageRef: "/blog/"
+        
 #  es:
 #    weight: 2
 #    languageName: "Español"

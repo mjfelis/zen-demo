@@ -1,7 +1,6 @@
 ---
 title: Deliverables
 weight: 15
-
 ---
 ## Specifications
 
