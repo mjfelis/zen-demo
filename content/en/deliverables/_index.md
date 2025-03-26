@@ -3,7 +3,6 @@ title: Deliverables
 weight: 15
 
 ---
-
 ## Specifications
 
 ### Verifiable Trust Specification
