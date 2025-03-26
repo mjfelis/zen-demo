@@ -1,7 +1,7 @@
 ---
 title: Mission
 weight: 1
-author: "The Verana Foundation"
+author: " "
 
 ---
 
