@@ -1,9 +1,7 @@
 ---
 title: Vision
 weight: 2
-
 ---
-
 ### Verifiable Interactions
 
 Internet is an heterogeneous world where several kind of participants cohabits and build interactions:
