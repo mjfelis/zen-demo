@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: Vision
 weight: 2
 
 ---
