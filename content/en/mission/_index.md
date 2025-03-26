@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: Mission section
 weight: 5
 
 ---
