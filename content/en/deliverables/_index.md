@@ -46,7 +46,7 @@ The following third-party software is being build with the Verifiable Trust spec
 
 A Signal-like messaging App which features a Verifiable Credential wallet and advanced features.
 
-[Get Hologram](https://hologram.zone)
+[Hologram Website](https://hologram.zone)
 
 ### Unic ID
 

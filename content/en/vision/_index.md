@@ -4,42 +4,47 @@ weight: 2
 ---
 ### Verifiable Interactions
 
-Internet is an heterogeneous world where several kind of participants cohabits and build interactions:
+The Internet is a heterogeneous world where various types of participants coexist and interact:
 
-- Organizations,
-- Services,
-- Persons,
-- Things,
-- User Agents: Apps, Browsers,...
-- AI Agents,
+- Organizations
+- Services
+- Individuals
+- Things
+- User Agents (e.g., apps, browsers)
+- AI Agents
 ...
 
-Interactions between participants work by establishing connections and exchanging information through the established connections.
+Interactions between participants occur by establishing connections and exchanging information.
 
-There are each time more communication channels, more way of establishing connections and interacting with participants in the Internet. Unfortunately, the protocols and services that are involved for establishing those connections does not provide a sure-fire way of identifying and verifying the connection participants.
+With the growing number of communication channels and connection methods, the challenge of verifying participants' identities has become more pressing. Unfortunately, existing protocols and services do not offer a reliable way to identify and authenticate connection participants with certainty.
 
-As a consequence, participants are always at risk of sharing information to the wrong entity. A simple example very easy to understand, that is part of our daily life: when you receive a GSM call from an unknown number, claiming they are the bank. How can you verify they are the bank?
+As a result, there is always a risk of sharing information with the wrong entity. A common example from everyday life illustrates this: when you receive a call from an unknown number claiming to be your bank, how can you verify their identity?
 
-Few methods have been invented as a workaround, but all these methods are tedious and outdated, and make user experience a pain. And, usually, these methods are for authenticating the consumers only, not the services nor their providers.
+Several workaround methods have been developed, but they are often cumbersome, outdated, and degrade the user experience. Moreover, these methods primarily focus on authenticating consumers rather than services or their providers.
 
-At the Verana Foundation, we believe that with the generalization of the usage of Verifiable Credentials, any Internet participant should be able to easily and instantly verify the identity of the other participants, before starting to exchange information in an established connection. Note that by identity, we do not necessarily mean official identity. An influencer could be identified, say, by an avatar, but, as a user, I know this avatar identifies the influencer I want to connect to.
+At the Verana Foundation, we believe that the widespread adoption of Verifiable Credentials can enable any Internet participant to instantly and effortlessly verify the identity of others before exchanging information. Importantly, identity does not necessarily mean official identity. For instance, an influencer may be identified by an avatar rather than a legal name—but as a user, I can trust that this avatar represents the influencer I intend to connect with.
 
 ### Verifiable Data
 
-Furthermore, viewed from another angle, for participants, it is a very complex task to collect "true" data and verify it. And if one needs to verify the collected information, it is often done by sub-contracting the task to a third party company or service (like for verifying identities), which is costly, and implies sharing user data massively.
+From another perspective, verifying the authenticity of data is a complex task for participants. Collecting "true" data and ensuring its accuracy often requires outsourcing verification to third-party companies or services (such as identity verification providers). This approach is costly and results in the widespread sharing of user data.
 
-We believe it should be straightforward for anyone to verify the authenticity of any kind of claims issued in a verifiable credential by a participant I (Issuer) to a participant H (Holder) and presented by H to a participant V (Verifier):
+We believe that by generalizing the use of Verifiable Credentials (VCs), verifying the authenticity of any presented data could become seamless. VCs ensure that the information they contain has not been tampered with—but that alone is not enough. To establish true trust, we must answer the following key questions:
 
-- is participant I (Issuer) enabled for issuing a credential with these claims to participant H (Holder)?
-- is participant V (Verifier) allowed to request participant H (Holder) presentation of a credential issued by participant I (Issuer)?
-- does participant V (Verifier) trusts the credentials issued by participant I (Issuer)?
-- can participant V (Verifier) be sure a 100% that data presented by participant H (Holder) has not been tempered with?
+- Is the Issuer (I) authorized to issue this credential with these claims to the Holder (H)?
 
-In other words, as a user, if a plumber presents a plumber credential to me:
+- Is the Verifier (V) permitted to request H to present a credential issued by I?
 
-- I want to verify that the plumber credential has not been tempered with;
-- I want to verify who is the issuer of the credential, and if I recognize this issuer as a legit issuer for plumber credentials;
-- When plumber arrives, I can verify that his face matches the picture of the plumber certificate.
+- Does V trust credentials issued by I?
+
+In practical terms, imagine a plumber presents a credential verifying their qualifications:
+
+- I need to confirm that the credential has not been altered.
+
+- I want to verify who issued the credential and whether I recognize them as a legitimate authority for plumbing certifications.
+
+- When the plumber arrives, I should be able to match their face to the credential.
+
+By addressing these questions, we move beyond simple data integrity and toward a fully trustable and verifiable ecosystem for digital credentials.
 
 ### Privacy-preserving identity-tied reputation, and self moderation
 
