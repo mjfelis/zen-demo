@@ -10,7 +10,7 @@ The [Verifiable Trust Specification](https://github.com/verana-labs/verifiable-t
 
 ### Verifiable Public Registry Specification
 
-{{< figure src="images/github.svg" caption="github repo" class="center" alt="github repo" >}} The [Verifiable Public Registry Specification](https://github.com/verana-labs/verifiable-trust-vpr-spec).
+{{< figure src="images/github.png" width="64" height="64" alt="github repo" >}} The [Verifiable Public Registry Specification](https://github.com/verana-labs/verifiable-trust-vpr-spec).
 
 ## Software
 
@@ -29,3 +29,9 @@ This typescript library can be used by any project that would like to embed the 
 Repo: [Verre](https://github.com/verana-labs/verre)
 
 ## Third Party Software
+
+### Hologram
+
+{{< qr >}}
+https://hologram.zone
+{{< /qr >}}
