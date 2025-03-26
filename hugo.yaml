@@ -48,7 +48,7 @@ params:
   logoHeight: 150
   mainSections:
     - mission
-    - vision
+  #  - vision
   menuInHeader: false
   mobileMenu: true
   mobileMenuOutline: true
