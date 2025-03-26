@@ -1,6 +1,6 @@
 ---
 title: Governance
-weight: 1
+weight: 10
 
 ---
 

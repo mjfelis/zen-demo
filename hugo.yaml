@@ -47,7 +47,8 @@ params:
   logoWidth: 150
   logoHeight: 150
   mainSections:
-  #  - blog
+    - mission
+    - vision
   menuInHeader: false
   mobileMenu: true
   mobileMenuOutline: true
