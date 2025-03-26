@@ -10,7 +10,7 @@ The [Verifiable Trust Specification](https://github.com/verana-labs/verifiable-t
 
 ### Verifiable Public Registry Specification
 
-![github](/images/github.png)The [Verifiable Public Registry Specification](https://github.com/verana-labs/verifiable-trust-vpr-spec).
+![github](images/github.png)The [Verifiable Public Registry Specification](https://github.com/verana-labs/verifiable-trust-vpr-spec).
 
 ## Software
 
@@ -37,4 +37,4 @@ https://hologram.zone
 {{< /qr >}}
 
 
-{{< figure src="images/github.png" width="64" height="64" alt="github repo" >}}
+{{< figure src="images/github.png" width="16" height="16" alt="github repo" >}}
