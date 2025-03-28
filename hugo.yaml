@@ -48,7 +48,7 @@ params:
   logoHeight: 150
   mainSections:
     - mission
-    - blog
+    - vision
   menuInHeader: false
   mobileMenu: true
   mobileMenuOutline: true
@@ -80,12 +80,6 @@ languages:
         - Name: "Deliverables"
           weight: 4
           pageRef: "/deliverables/"
-        - Name: "Search"
-          weight: 10
-          pageRef: "/search/"
-        - Name: "Blog"
-          weight: 20
-          pageRef: "/blog/"
         
 #  es:
 #    weight: 2
