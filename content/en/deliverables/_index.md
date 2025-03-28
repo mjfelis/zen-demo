@@ -4,13 +4,13 @@ weight: 15
 ---
 ## Specifications
 
-### Verifiable Trust Specification
+### Verifiable Trust specification
 
 Specification for adding a trust verification layer to the Internet. It proposes a system using [Verifiable Credentials](https://www.w3.org/TR/vc-data-model-2.0/) and Verifiable Public Registries (VPRs) to establish secure, zero-trust communication channels. The specification details requirements for verifiable services and user agents, including essential credential schemas for various entities (services, organizations, persons, user agents). It outlines procedures for credential issuance, presentation requests, and trust resolution, aiming to create a more trustworthy and interoperable internet.
 
 Browsable spec: [Verifiable Trust Specification](https://verana-labs.github.io/verifiable-trust-spec/)
 
-### Verifiable Public Registry Specification
+### Verifiable Public Registry specification
 
 Specification for a Verifiable Public Registry (VPR), a decentralized, ledger-based system designed to improve Internet security and trust. A VPR is a public network that can be used by any Ecosystem that would like to manages trust registries, credential schemas, and permissions for issuing and verifying credentials. It uses a tokenized business model to incentivize participation, build reputation, and maintain the system. The specification details the data model, module requirements, and various methods for managing trust registries, credential schemas, permissions, validation processes, and a [DID](https://www.w3.org/TR/did-1.0/) directory.
 
@@ -30,7 +30,7 @@ Repo: [Verana Network](https://github.com/verana-labs/verana-blockchain)
 
 An open source dashboard for Ecosystems for interacting with the Verana Network and manage trust registries, credential schemas, permissions, and DID Directory.
 
-Repo: [Verana Network](https://github.com/verana-labs/verana-frontend)
+Repo: [Verana Frontend](https://github.com/verana-labs/verana-frontend)
 
 ### Verre (aka Verana Resolver)
 
