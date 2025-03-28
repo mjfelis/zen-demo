@@ -60,14 +60,12 @@ The following third-party software is being build with the Verifiable Trust spec
 
 ### Hologram Messaging
 
-A Signal-like messaging App which features a Verifiable Credential wallet and advanced features.
+A Signal-like, self-custody messaging app which features a Verifiable Credential wallet and advanced features. The first Verifiable User Agent (VUA).
 
 [Hologram Website](https://hologram.zone)
 
-### Unic ID
+### Generic Verifiable Services for Credential issuance and verification
 
-### Generic Credential Verifier
+2060.io github repo is a good source of Verifiable Service examples:
 
-A generic credential verifier
-
-[https://github.com/2060-io/generic-verifier](https://github.com/2060-io/generic-verifier)
+[https://github.com/2060-io/](https://github.com/2060-io/)
