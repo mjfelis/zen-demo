@@ -44,8 +44,8 @@ params:
   icon: "logo.png"
   image: "logo.png"
   imageMaxWidth: 400
-  logoWidth: 150
-  logoHeight: 150
+  logoWidth: 120
+  logoHeight: 120
   mainSections:
     - mission
     - vision
