@@ -9,7 +9,7 @@ Welcome!
 
 Thirty years after Tim Berners-Lee introduced the World Wide Web as an open platform for sharing knowledge and connecting people, the digital world stands at a crossroads. What began as a noble tool to democratize information has evolved into a complex ecosystem shaped by commercial interests, surveillance, misinformation, and fragmented user experiences. Berners-Lee, reflecting on his creation, has voiced both pride in the web’s reach and deep concern over the direction it has taken.
 
-{{< figure src="images/tim.png" width="200" caption="Tim Berners-Lee"  alt="Tim Berners-Lee" >}}
+{{< figure src="images/tim.png" width="200" caption="Tim Berners-Lee" class="alignright" alt="Tim Berners-Lee" >}}
 
 We wholeheartedly echo his call for a fundamental re-foundation of the web—one built on openness, transparency, accountability, and service to the public good. A web that upholds human rights, fosters permissionless innovation, and remains accessible to all.
 
