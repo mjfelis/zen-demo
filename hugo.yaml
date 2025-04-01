@@ -73,7 +73,7 @@ languages:
         - Name: "Deliverables"
           weight: 4
           pageRef: "/deliverables/"
-        - Name: "ECS"
+        - Name: "Essential Schemas"
           weight: 10
           pageRef: "/ecs/"
         

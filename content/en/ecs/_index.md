@@ -10,13 +10,13 @@ Essential Credential Schemas (ECS) are the foundational building blocks of digit
 
 There are four core types of Essential Credential Schemas:
 
-Service ECS — Verifies the identity and attributes of a digital service.
+- Service ECS — Verifies the identity and attributes of a digital service.
 
-Organization ECS — Establishes the legal and public legitimacy of an organization.
+- Organization ECS — Establishes the legal and public legitimacy of an organization.
 
-Person ECS — Provides proof of identity for individuals, respecting privacy-by-design.
+- Person ECS — Provides proof of identity for individuals, respecting privacy-by-design.
 
-User Agent ECS — Ensures that software connecting to services complies with trust and privacy requirements.
+- User Agent ECS — Ensures that software connecting to services complies with trust and privacy requirements.
 
 These schemas enable verifiable services (VS) and verifiable user agents (VUA) to authenticate themselves and each other, making communication channels inherently more secure and privacy-respecting.
 
