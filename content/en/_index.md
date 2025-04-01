@@ -3,10 +3,9 @@ title: The Verana Foundation
 date: 2022-08-03T20:48:20+02:00
 
 ---
+Welcome!
 
-Welcome to the Verana Foundation!
-
-## Intro
+## Introduction to the Verana Foundation
 
 Thirty years after Tim Berners-Lee introduced the World Wide Web as an open platform for sharing knowledge and connecting people, the digital world stands at a crossroads. What began as a noble tool to democratize information has evolved into a complex ecosystem shaped by commercial interests, surveillance, misinformation, and fragmented user experiences. Berners-Lee, reflecting on his creation, has voiced both pride in the web’s reach and deep concern over the direction it has taken.
 
@@ -14,11 +13,15 @@ Thirty years after Tim Berners-Lee introduced the World Wide Web as an open plat
 
 We wholeheartedly echo his call for a fundamental re-foundation of the web—one built on openness, transparency, accountability, and service to the public good. A web that upholds human rights, fosters permissionless innovation, and remains accessible to all.
 
-As of today, digital trust is eroding at an alarming pace. AI-generated fraud, deepfakes, and opaque algorithmic systems are undermining confidence, while regulatory landscapes grow more complex and fragmented. Businesses face mounting pressure to deliver privacy, automation, and compliance. Meanwhile, individuals - overwhelmed by surveillance and manipulation - are desperate for solutions that restore trust in the digital experience.
+The Verana Foundation is a nonprofit organization dedicated to rebuilding digital trust in an era where the web's original promise of openness, privacy, and decentralization has been undermined. In response to the growing challenges of identity theft, misinformation, and opaque governance in online systems, Verana is stewarding the development of open standards and decentralized infrastructure to support secure, interoperable, and privacy-respecting communication.
+
+Through its flagship specifications — the [Verifiable Trust Specification](https://verana-labs.github.io/verifiable-trust-spec/) and the [Verifiable Public Registry Specification](https://verana-labs.github.io/verifiable-trust-vpr-spec/) — the foundation defines a new trust layer for the internet, built on [Verifiable Credentials (VCs)](https://en.wikipedia.org/wiki/Verifiable_credentials), decentralized identifiers (DIDs), and permissioned trust registries.
+
+As the steward of Essential Credential Schemas (ECS), the Verana Foundation not only defines the minimum set of credentials required for establishing trust in digital services and user agents, but also governs their issuance through a transparent and community-driven governance framework. This includes appointing issuer grantors and authorized issuers to ensure that ECS credentials can be relied upon as the foundational trust anchors of a decentralized digital ecosystem.
 
 ## Our Mission
 
-To restore digital trust by specifying and building open, interoperable, and privacy-respecting software for the next generation of the web, empowering individuals, enabling responsible innovation, and ensuring that the digital future is rooted in transparency, accountability, and the public good.
+The Verana Foundation is committed to advancing digital trust as a public good. Through open standards, decentralized governance, and inclusive credentialing frameworks, we enable secure, privacy-preserving digital identity and communication systems—empowering individuals, strengthening institutions, and supporting democratic digital infrastructure globally.
 
 ## Our Vision
 
