@@ -49,7 +49,7 @@ params:
   mainSections:
     - mission
     - vision
-  menuInHeader: true
+  menuInHeader: false
   mobileMenu: true
   mobileMenuOutline: true
   poweredby: false
