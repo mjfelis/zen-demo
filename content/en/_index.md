@@ -47,13 +47,13 @@ As a result, there is always a risk of sharing information with the wrong entity
 
 Several workaround methods have been developed, but they are often cumbersome, outdated, and degrade the user experience. Moreover, these methods primarily focus on authenticating consumers rather than services or their providers.
 
-At the Verana Foundation, we believe that the widespread adoption of Verifiable Credentials can enable any Internet participant to instantly and effortlessly verify the identity of others before exchanging information. Importantly, identity does not necessarily mean official identity. For instance, an influencer may be identified by an avatar rather than a legal name—but as a user, I can trust that this avatar represents the influencer I intend to connect with.
+At the Verana Foundation, we believe that the widespread adoption of [Verifiable Credentials (VCs)](https://en.wikipedia.org/wiki/Verifiable_credentials) can enable any Internet participant to instantly and effortlessly verify the identity of others before exchanging information. Importantly, identity does not necessarily mean official identity. For instance, an influencer may be identified by an avatar rather than a legal name—but as a user, I can trust that this avatar represents the influencer I intend to connect with.
 
 ### Verifiable Data
 
 From another perspective, verifying the authenticity of data is a complex task for participants. Collecting "true" data and ensuring its accuracy often requires outsourcing verification to third-party companies or services (such as identity verification providers). This approach is costly and results in the widespread sharing of user data.
 
-At the Verana Foundation, we believe that by generalizing the use of Verifiable Credentials (VCs), verifying the authenticity of any presented data could become seamless. VCs ensure that the information they contain has not been tampered with—but that alone is not enough. To establish true trust, we must answer the following key questions:
+At the Verana Foundation, we believe that by generalizing the use of [Verifiable Credentials (VCs)](https://en.wikipedia.org/wiki/Verifiable_credentials), verifying the authenticity of any presented data could become seamless. VCs ensure that the information they contain has not been tampered with—but that alone is not enough. To establish true trust, we must answer the following key questions:
 
 - Is the Issuer (I) authorized to issue this credential with these claims to the Holder (H)?
 
