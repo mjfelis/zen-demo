@@ -73,9 +73,9 @@ languages:
         - Name: "Deliverables"
           weight: 4
           pageRef: "/deliverables/"
-        - Name: "Essential Schemas"
+        - Name: "Use Cases"
           weight: 10
-          pageRef: "/ecs/"
+          pageRef: "/usecases/"
         
 #  es:
 #    weight: 2
