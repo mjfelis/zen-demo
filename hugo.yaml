@@ -68,12 +68,6 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "Mission"
-          weight: 1
-          pageRef: "/mission/"
-        - Name: "Vision"
-          weight: 2
-          pageRef: "/vision/"
         - Name: "Governance"
           weight: 3
           pageRef: "/governance/"
