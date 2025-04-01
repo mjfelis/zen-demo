@@ -12,8 +12,8 @@ Running a Verifiable Service (VS) means your organization can operate a trusted,
 
 ### ✅ 1. Obtain a Decentralized Identifier (DID)
 
-- Create a **DID** for your organization.
-- This **DID** will be resolvable to a **DID Document**, which contains service metadata and linked credentials.
+- Create a **Organization DID** for your organization.
+- This **Organization DID** will be resolvable to a **DID Document**, which contains service metadata and linked credentials.
 
 You can use any DID method.
 
@@ -29,9 +29,9 @@ You’ll need a **Verifiable Organization Credential**, issued under an **Essent
   - Registry URL and ID
   - Address and logo
 
-Once verified, you receive the credential.
+Once verified, you receive the credential linked to your **Organization DID**.
 
-### ✅ 3. Issue a **Service Credential (VT-EC-SERVICE)**
+### ✅ 3. Self-Issue a **Service Credential (VT-EC-SERVICE)**
 
 - This credential describes the specific service you're offering.
 - It includes:
@@ -40,11 +40,6 @@ Once verified, you receive the credential.
   - Terms & conditions URL
   - Privacy policy URL
 - It must be linked to your organization via your DID.
-
-You can either:
-
-- **Self-issue** it (if you're an authorized issuer), or
-- **Request** it from an ECS issuer in the VPR.
 
 ### ✅ 4. Update Your DID Document
 
