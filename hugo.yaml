@@ -48,7 +48,6 @@ params:
   logoHeight: 120
   mainSections:
     - mission
-    - vision
   menuInHeader: false
   mobileMenu: true
   mobileMenuOutline: true
@@ -74,6 +73,9 @@ languages:
         - Name: "Deliverables"
           weight: 4
           pageRef: "/deliverables/"
+        - Name: "ECS"
+          weight: 10
+          pageRef: "/ecs/"
         
 #  es:
 #    weight: 2
