@@ -10,7 +10,7 @@ Welcome to the Verana Foundation!
 
 Thirty years after Tim Berners-Lee introduced the World Wide Web as an open platform for sharing knowledge and connecting people, the digital world stands at a crossroads. What began as a noble tool to democratize information has evolved into a complex ecosystem shaped by commercial interests, surveillance, misinformation, and fragmented user experiences. Berners-Lee, reflecting on his creation, has voiced both pride in the web’s reach and deep concern over the direction it has taken.
 
-{{< figure src="images/tim.png" caption="Tim."  alt="Tim" >}}
+{{< figure src="images/tim.png" width="300" caption="Tim Berners-Lee"  alt="Tim Berners-Lee" >}}
 
 We can only agree with the fact that there is a urgent need for a re-foundation of the web, built on openness, accountability, and public good. A web that respects human rights, fosters innovation, and remains universally accessible.
 
