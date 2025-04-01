@@ -12,18 +12,13 @@ Thirty years after Tim Berners-Lee introduced the World Wide Web as an open plat
 
 {{< figure src="images/tim.png" width="200" caption="Tim Berners-Lee"  alt="Tim Berners-Lee" >}}
 
-We can only agree with the fact that there is a urgent need for a re-foundation of the web, built on openness, accountability, and public good. A web that respects human rights, fosters innovation, and remains universally accessible.
+We wholeheartedly echo his call for a fundamental re-foundation of the web—one built on openness, transparency, accountability, and service to the public good. A web that upholds human rights, fosters permissionless innovation, and remains accessible to all.
 
-Digital trust is collapsing due to AI-driven fraud, deepfakes, and regulatory complexity. Businesses need better privacy, automation, and compliance, while consumers, overwhelmed by privacy concerns, need solutions for re-enabling digital trust.
+As of today, digital trust is eroding at an alarming pace. AI-generated fraud, deepfakes, and opaque algorithmic systems are undermining confidence, while regulatory landscapes grow more complex and fragmented. Businesses face mounting pressure to deliver privacy, automation, and compliance. Meanwhile, individuals - overwhelmed by surveillance and manipulation - are desperate for solutions that restore trust in the digital experience.
 
 ## Our Mission
 
-Verana's mission is to provide a new, decentralized, and universal trust layer to make the Internet verifiable, for re-enabling digital trust.
-
-Like the DNS (Domain Name System) provides a way of resolving domain names, the Verana Foundation is building the bricks to resolve, verify, and prove trust.
-
-- DNS: Resolve domain names
-- VTR: Verifiable Trust Resolver
+To restore digital trust by specifying and building open, interoperable, and privacy-respecting software for the next generation of the web, empowering individuals, enabling responsible innovation, and ensuring that the digital future is rooted in transparency, accountability, and the public good.
 
 ## Our Vision
 
