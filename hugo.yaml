@@ -67,12 +67,15 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
+        - Name: "Deliverables"
+          weight: 2
+          pageRef: "/deliverables/"
         - Name: "Governance"
           weight: 4
           pageRef: "/governance/"
-        - Name: "Deliverables"
+        - Name: "Network"
           weight: 6
-          pageRef: "/deliverables/"
+          pageRef: "/network/"
         - Name: "FAQ"
           weight: 12
           pageRef: "/faq/"
