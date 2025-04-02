@@ -76,6 +76,9 @@ languages:
         - Name: "Use Cases"
           weight: 10
           pageRef: "/usecases/"
+        - Name: "FAQ"
+          weight: 12
+          pageRef: "/faq/"
         
 #  es:
 #    weight: 2

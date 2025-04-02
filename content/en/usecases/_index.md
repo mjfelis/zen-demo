@@ -6,64 +6,85 @@ weight: 10
 
 The following use cases summarize the concept of Verifiable Trust.
 
-## 🏢 How an Organization Can Run a Verifiable Service (VS)
 
-Running a Verifiable Service (VS) means your organization can operate a trusted, privacy-respecting digital service on the decentralized web. Here’s what you need to do:
+## 🏢 How to Obtain an Organization Credential
 
 ### ✅ 1. Obtain a Decentralized Identifier (DID)
 
-- Create a **Organization DID** for your organization.
-- This **Organization DID** will be resolvable to a **DID Document**, which contains service metadata and linked credentials.
+- Create a **Organization DID** for your organization. You can use any DID method.
+- This **Organization DID** will be resolvable to a **DID Document**, which contains service metadata and linked credentials used to resolve trust.
 
-You can use any DID method.
 
 ### ✅ 2. Obtain an **Organization Credential (VT-EC-ORG)**
 
-You’ll need a **Verifiable Organization Credential**, issued under an **Essential Credential Schema**:
+You’ll need a **Organization Credential**, issued by an Ecosystem that is providing **Essential Credential Schemas**.
 
-- Find a **trusted issuer** in a **Verifiable Public Registry (VPR)**.
-- Provide proof of:
-  - Legal name and registration
-  - Jurisdiction (country code)
-  - Organization type (e.g., PRIVATE, FOUNDATION)
-  - Registry URL and ID
-  - Address and logo
+- For the chosen ecosystem, find an **issuer** that is granted issuance of **Organization Credentials** ECS.
+- Start a Validation process with the Issuer.
 
-Once verified, you receive the credential linked to your **Organization DID**.
+Provide proof of:
 
-### ✅ 3. Self-Issue a **Service Credential (VT-EC-SERVICE)**
+- Legal name and registration
+- Jurisdiction (country code)
+- Organization type (e.g., PRIVATE, FOUNDATION)
+- Registry URL and ID
+- Address and logo
 
-- This credential describes the specific service you're offering.
+Additionally:
+
+- prove you own the Organization DID
+
+Once verified, you receive an **Organization Credential** issued to your **Organization DID**.
+
+### ✅ 3. Update Your Organization DID Document
+
+- Add a **Linked Verifiable Presentation**:
+  - Your **Organization Credential**
+
+### 🚀 Summary Checklist
+
+| Step | Action |
+|------|--------|
+| 🆔 | Create an Organization DID and its DID Document |
+| 🏛️ | Get an Organization Credential from a granted issuer |
+| 🔗 | Present Organization Credential in your DID Document |
+
+
+## 🏢 How to Run a Verifiable Service (VS)
+
+Running a Verifiable Service (VS) means your organization (or you as a Person) can operate a trusted, privacy-respecting digital service on the decentralized web.
+
+Prerequisite: you must already have an Organization Credential or a Person Credential.
+
+### ✅ 1. Create a DID for your Service and Self-Issue a **Service Credential (VT-EC-SERVICE)**
+
+- Create a **Service DID** for your service. You may want to use your **Organization DID** but is recommended to use a separate DID in case you want your organization to provide more than one Verifiable Service, as usually each service has its own DID.
+- This **Service DID** will be resolvable to a **DID Document**, which contains service metadata and linked credentials.
+
+Self-issue a **Service Credential** to your **Service DID**, that describes the specific service you're offering.
+
 - It includes:
   - Service name, description, logo
   - Minimum age required
   - Terms & conditions URL
   - Privacy policy URL
-- It must be linked to your organization via your DID.
 
-### ✅ 4. Update Your DID Document
+### ✅ 2. Update Your Service DID Document
 
 - Add **Linked Verifiable Presentations**:
   - Your **Service Credential**
   - Your **Organization Credential**
-- Include a `VerifiablePublicRegistry` entry pointing to the VPR your credentials are registered in.
 
-### ✅ 5. Ensure Trust Resolution Can Succeed
+### ✅ 3. Start Accepting Secure Connections
 
-To be recognized as a **Verifiable Service**:
+Once your Verifiable Service is set up:
 
-- Credentials must be **issued by authorized entities**
-- They must conform to ECS JSON Schemas
-- They must be **resolvable** through the VPR API
-- Your credentials must be **presented in your DID Document** correctly
+- Other Verifiable Services or User Agents can resolve trust by reading the DID Documents of:
+  - your service
+  - your organization
+  - the issuer of your organization credential
 
-### ✅ 6. Start Accepting Secure Connections
-
-Once your DID is set up:
-
-- Other Verifiable Services or User Agents can resolve your DID
-- They will check your credentials and validate them
-- If trust resolution passes, they’ll allow a secure DIDComm connection
+Your service will check your credentials and validate them. If trust resolution passes, they’ll allow a secure connection with your Verifiable Service
 
 ### 🚀 Summary Checklist
 
