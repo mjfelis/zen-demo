@@ -68,14 +68,11 @@ languages:
           weight: -10
           pageRef: "/"
         - Name: "Governance"
-          weight: 3
+          weight: 4
           pageRef: "/governance/"
         - Name: "Deliverables"
-          weight: 4
+          weight: 6
           pageRef: "/deliverables/"
-        - Name: "Use Cases"
-          weight: 10
-          pageRef: "/usecases/"
         - Name: "FAQ"
           weight: 12
           pageRef: "/faq/"

@@ -43,4 +43,8 @@ A Verifiable User Agent is software — such as wallets, browsers, secure messag
 
 You can contribute by participating in specification discussions, providing feedback, contributing open-source implementations, joining working groups, or supporting through donations. All contributions help build a trusted, privacy-focused digital ecosystem.
 
+### 📌 11. When the Verana Network will launch?
+
+Testnet launch date is April 30, 2025. Mainnet is supposed to launch on Q1, 2026.
+
 For further questions or information, please reach out directly to our community channels.
