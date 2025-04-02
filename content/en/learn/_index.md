@@ -1,5 +1,5 @@
 ---
-title: Network
+title: Learn
 weight: 15
 ---
 

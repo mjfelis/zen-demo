@@ -113,4 +113,6 @@ The following countries already have at least one candidate organization for bei
 | latam | Bolivia | Organization |
 | apac | Vietnam | Organization, Person |
 
-Are you verifying identities and or companies in your country? Do you want to generate additional revenues and be an ECS issuer? Contact us.
+Service Credentials are self-issued credential and thus do not need qualified issuers.
+
+Are you an identity verification company in your country? If yes, you can generate additional revenues by becoming an ECS issuer. Contact us for more information.
