@@ -73,9 +73,6 @@ languages:
         - Name: "Governance"
           weight: 4
           pageRef: "/governance/"
-        - Name: "Network"
-          weight: 6
-          pageRef: "/network/"
         - Name: "Learn"
           weight: 8
           pageRef: "/learn/"
