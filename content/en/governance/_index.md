@@ -4,7 +4,7 @@ weight: 10
 
 ---
 
-### Governance Framework
+## Ecosystem Governance Framework
 
 The Governance Framework defines the principles, structures, and processes that ensure accountability, transparency, and alignment with the Verana Foundation’s mission.
 
@@ -90,22 +90,27 @@ The Governance Framework defines the principles, structures, and processes that 
 
 - Mechanisms for continuous community feedback, periodic review, and iterative improvements to the governance framework.
 
-## ECS Issuer Candidates
+## Essential Credential Schema (ECS) Issuers
 
 Any organization qualifies for becoming an Essential Credential Schema (ECS) Issuer providing it adheres to and comply with Verana governance framework. The following organizations are active foundation contributors and have been preselected for issuing ECS credentials when testnet and mainnet network launches.
 
-| region | country | schema | organization |
-|------|------|--------|------|
-| emea | Estonia | Organization | 2060 OÜ|
-| emea | Spain | Organization | Mobiera Spain SL|
-| emea | UK | Organization | - in progress - |
-| emea | Algeria | Organization | Mobiera Algérie SARL|
-| emea | Morocco | Organization | - in progress - |
-| na | USA | Organization | Vividlabs LLC |
-| latam | Ecuador | Organization | Movilaction del Ecuador SA|
-| latam | Peru | Organization | Movac del Perú SAC|
-| latam | Panamá | Organization | Mobiera Norte SA|
-| latam | Mexico | Organization | 2060 MX S de RL de CV|
-| latam | Colombia | Organization | - in progress - |
-| latam | Bolivia | Organization | Mobile Business Intelligence SRL|
-| apac | Vietnam | Organization | - in progress - |
+The following countries already have at least one candidate organization for being an ECS issuer:
+
+| region | country | schema |
+|------|------|--------|
+| emea | Estonia | Organization, Person, User Agent |
+| emea | Spain | Organization, Person |
+| emea | UK | Organization, Person |
+| emea | Algeria | Organization, Person |
+| emea | Morocco | Organization, Person |
+| emea | South Africa | Organization, Person |
+| na | USA | Organization |
+| latam | Ecuador | Organization, Person |
+| latam | Peru | Organization, Person |
+| latam | Panamá | Organization |
+| latam | Mexico | Organization, Person |
+| latam | Colombia | Organization |
+| latam | Bolivia | Organization |
+| apac | Vietnam | Organization, Person |
+
+Are you verifying identities and or companies in your country? Do you want to generate additional revenues and be an ECS issuer? Contact us.
