@@ -7,9 +7,9 @@ weight: 10
 
 The Verana Foundation is a nonprofit organization dedicated to establishing decentralized digital trust and identity solutions. It develops open technical standards, governance frameworks, and decentralized infrastructure to empower users and organizations to securely interact on the digital web.
 
-### 📌 2. What does "decentralized trust" mean?
+### 📌 2. What does "verifiable trust" mean?
 
-Decentralized trust refers to trust built upon cryptographic verification rather than centralized intermediaries. It involves Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), and secure communication channels, enabling direct, secure, peer-to-peer digital interactions without relying on central authorities.
+Verifiable trust refers to trust built upon cryptographic verification rather than centralized intermediaries. It involves Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), and secure communication channels, enabling direct, secure, peer-to-peer digital interactions without relying on central authorities.
 
 ### 📌 3. What are Verifiable Credentials (VCs)?
 
@@ -19,9 +19,9 @@ Verifiable Credentials are cryptographically secure digital documents issued by 
 
 The Verifiable Trust Specification defines how decentralized identifiers, verifiable credentials, and secure communication protocols (like DIDComm) come together to create trusted digital interactions. It outlines the technical standards needed to verify identities and services reliably.
 
-### 📌 5. What is the Verifiable Public Registry (VPR)?
+### 📌 5. What is a Verifiable Public Registry (VPR)?
 
-The Verifiable Public Registry is an open "registry of registries" infrastructure. It maintains records of trusted issuers, verifiers, and credential schemas, facilitating the transparent governance and verification of identities, credentials, and services on the decentralized web.
+A Verifiable Public Registry is an open "registry of registries" infrastructure. It maintains records of trusted issuers, verifiers, and credential schemas, facilitating the transparent governance and verification of identities, credentials, and services on the decentralized web. The Verana Network is an implementation of a VPR.
 
 ### 📌 6. What are Essential Credential Schemas (ECS)?
 
@@ -37,10 +37,10 @@ Organizations must obtain an Organization Credential, issue or request a Service
 
 ### 📌 9. What is a Verifiable User Agent (VUA)?
 
-A Verifiable User Agent is software—such as wallets, browsers, or secure messaging apps—that users rely on to securely manage their credentials, perform trust resolutions, and interact safely with Verifiable Services.
+A Verifiable User Agent is software — such as wallets, browsers, secure messaging or social apps — that users rely on to securely manage their credentials, perform trust resolutions, and interact safely with Verifiable Services.
 
 ### 📌 10. How can I participate or contribute to the Verana Foundation’s work?
 
-You can contribute by participating in specification discussions, providing feedback, developing open-source implementations, joining working groups, or supporting through donations. All contributions help build a trusted, privacy-focused digital ecosystem.
+You can contribute by participating in specification discussions, providing feedback, contributing open-source implementations, joining working groups, or supporting through donations. All contributions help build a trusted, privacy-focused digital ecosystem.
 
 For further questions or information, please reach out directly to our community channels.
