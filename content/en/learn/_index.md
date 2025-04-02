@@ -1,8 +1,5 @@
 ---
 title: Learn
-weight: 15
+date: 2024-11-05T00:00:00+02:00
+
 ---
-
-[Intro to Verifiable Trust](images/intro-to-vt.pdf)
-
-{{< slideshow "images/intro-to-vt.pdf" >}}
