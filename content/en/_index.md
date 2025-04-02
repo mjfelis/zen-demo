@@ -26,4 +26,4 @@ Prioritize user privacy, data sovereignty, and minimal disclosure, placing peopl
 - [Mathieu Gauthron](https://www.linkedin.com/in/mathieugauthron/) - Head of the Verana Network at the Verana Foundation
 - [David Rennie](https://www.linkedin.com/in/david-rennie-b736541/) - Digital Identity & Data Assurance Specialist
 - [Richard Butlewski](https://www.linkedin.com/in/richard-butlewski-699204/) - Senior Sales and Business Development team manager at Idemia
-- [David Carrasco Zanini](https://www.linkedin.com/in/david-carrasco-zanini-p-7719389b/) - CEO at Alcani, Notary Software
+- [David Carrasco Zanini](https://www.linkedin.com/in/david-carrasco-zanini-p-7719389b/) - CEO at Alcani
