@@ -3,4 +3,4 @@ title: Learn
 weight: 15
 ---
 
-{{< slideshow "slides/intro-to-vt.pdf" >}}
+{{< slideshow "images/intro-to-vt.pdf" >}}
