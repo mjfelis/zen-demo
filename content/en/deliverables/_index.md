@@ -13,10 +13,10 @@ weight: 15
 
 Summary of the most notable repositories.
 
-| category | item | description | status| license |
-|------|--------|------|------|--------|
+| category    | item      | description   | status| license |
+|-------------|-----------|---------------|-------|---------|
 | VPR | [verana blockchain](https://github.com/verana-labs/verana-blockchain) | a [Cosmos SDK](https://docs.cosmos.network/) based [VPR](https://verana-labs.github.io/verifiable-trust-vpr-spec/)  implementation | testnet launches soon | GNU Affero GPL |
-| VPR | [verana frontend](https://github.com/verana-labs/verana-frontend) | a nextJS frontend for the verana blockchain | active development | APACHE2 |
+| VPR | [verana frontend](https://github.com/verana-labs/verana-frontend) | a nextJS frontend for the verana blockchain | active development | apache2 |
 | LIBRARY | [verre](https://github.com/verana-labs/verre) | A verifiable trust resolver typescript library | active development | apache2 |
 | VS | verifiable service examples | a set of simple verifiable service examples| available | apache2 |
 | VUA | verifiable user agent example(s) | demo of simple wallet user agents| planned | apache2 |
