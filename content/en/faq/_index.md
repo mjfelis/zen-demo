@@ -3,9 +3,6 @@ title: Frequently Asked Questions (FAQ)
 weight: 10
 
 ---
-
-Verana Foundation – Frequently Asked Questions (FAQ)
-
 ### 📌 1. What is the Verana Foundation?
 
 The Verana Foundation is a nonprofit organization dedicated to establishing decentralized digital trust and identity solutions. It develops open technical standards, governance frameworks, and decentralized infrastructure to empower users and organizations to securely interact on the digital web.
