@@ -3,4 +3,6 @@ title: Learn
 weight: 15
 ---
 
-{{< slideshow "images/intro-to-vt.pdf" >}}
+[Intro to Verifiable Trust](slides/intro-to-vt.pdf)
+
+{{< slideshow "slides/intro-to-vt.pdf" >}}
